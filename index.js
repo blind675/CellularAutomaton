@@ -4,7 +4,7 @@ const WORLD_HEIGHT = 32;
 const LIVE_CELL = " # ";
 const DEAD_CELL = "   ";
 
-const INTERVAL = 200;
+const INTERVAL = 100;
 
 const RESET_AT_GENERATION = 1000; // 0 = no reset
 const RESET_CELL_INACTIVITY_THRESHOLD = 3;
